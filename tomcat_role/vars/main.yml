@@ -1,0 +1,4 @@
+---
+# vars file for tomcat_role
+tomcat_main_version: 8
+tomcat_sub_version: 8.5.98
